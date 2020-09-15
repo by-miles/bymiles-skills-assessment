@@ -12,3 +12,7 @@ A collection of skills assessments and resources we may use during the hiring pr
 ## Cloud Platform Engineer
 
 [A hands on pairing assessment around Terraform and Github Pull Requests](cloud-platform-engineer-iac.md)
+
+## Business Intelligence Analyst
+
+[A hands on pairing exercise using SQL to answer a business question](bi-analyst.md)
